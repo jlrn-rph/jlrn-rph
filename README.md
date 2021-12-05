@@ -1,16 +1,15 @@
-### Hi there 👋
+[![Justin's GitHub Banner](./assets/github-banner.png)](https://www.linkedin.com/in/jlrnrph/)
 
-<!--
-**jlrn-rph/jlrn-rph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! 👋
 
-Here are some ideas to get you started:
+I'm Justin Louise, a registered pharmacist, programmer and an AI enthusiast. My goal is to create and contribute to the enhancement of the pharmacy tech in the Philippines 💊💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<p align="center">
+  <i>Want to know more about me? Let's connect!</i>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/jlrnrph/" alt="Linkedin"><img src=""></a>
+
+  </p>
+</p>
