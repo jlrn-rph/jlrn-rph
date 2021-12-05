@@ -1,8 +1,13 @@
-[![Justin's GitHub Banner](./assets/github-banner.png)](https://www.linkedin.com/in/jlrnrph/)
+[![Justin's GitHub Banner](./assets/github-banner-dark.png)](https://www.linkedin.com/in/jlrnrph/)
 
 Hello there! 👋
 
-I'm Justin Louise, a registered pharmacist, programmer and an AI enthusiast. My goal is to create and contribute to the enhancement of the pharmacy tech in the Philippines 💊💻
+I'm Justin Louise, your pharmacist in tech. My goal is to create and contribute to the enhancement of the pharmacy tech in the Philippines 🇵🇭
+
+- 💊 Registered Pharmacist
+- 👨‍💻 Computer programmer at CAWIL.AI
+- 🤖 Artificial intelligence enthusiast
+- 🧠 Always curious
 
 <hr>
 <p align="center">
