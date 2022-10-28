@@ -5,7 +5,7 @@ Hello there! 👋
 I'm Justin Louise, your pharmacist in tech. My goal is to create and contribute to the enhancement of the pharmacy tech in the Philippines 🇵🇭
 
 - 💊 Registered Pharmacist
-- 👨‍💻 Computer programmer at CAWIL.AI
+- 👨‍💻 AI/Software Developer
 - 🤖 Artificial intelligence enthusiast
 - 🧠 Always curious
 
